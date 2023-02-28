@@ -11,8 +11,18 @@
     display: flex;
     flex-direction: column;
     margin-bottom: 0%;
+    
 }
 label{
     margin-bottom: 30px;
 
+}
+#submitstyle{
+    background-color: aqua;
+}
+#submitstyle:hover{
+    background-color: aquamarine;
+}
+.marrombombom{
+    border: 2px solid paleturquoise;
 }
