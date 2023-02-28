@@ -1,5 +1,26 @@
 form {
 display: flex;
 flex-direction: column;
-padding-right: 900px;
+padding-right: 500px;
+margin-top: 300px;
+padding-left: 500px;
+}
+.divforms {
+    margin-bottom: 30px;
+    border: 2px solid black;
+    border-color: violet;
+    background-color: plum;
+}
+#submit {
+    background-color: plum;
+    margin-top: 30px;
+    font-family: Arial;
+    border: solid 1.8px;
+    border-color: black;
+}
+#submit:hover {
+    background-color: beige;
+}
+body{
+    background-color: blanchedalmond;
 }
