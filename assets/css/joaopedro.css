@@ -1,7 +1,28 @@
+body {
+    background-color:darksalmon;
+}
 form {
     display: flex;
     flex-direction: column;
     padding-right: 500px;
     margin-top: 300px;
     padding-left: 500px;
+    text-align: center;
+    font-family: haettenschweiler;
+}
+.divforms {
+    margin-bottom: 30px;
+    border:solid 1.8px;
+    border-color: black;
+    background-color:gold;
+}
+#stylesubmit {
+    background-color:orange;
+    margin-top: 30px;
+    font-family: haettenschweiler;
+    border:solid 1.8px;
+    border-color: black;    
+}
+#stylesubmit:hover {
+    background-color:red;
 }
