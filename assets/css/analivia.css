@@ -5,3 +5,14 @@
     padding-left: 500px;
     margin-top: 300px;
 }
+.form_input{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0%;
+}
+label{
+    margin-bottom: 30px;
+
+}
